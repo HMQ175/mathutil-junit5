@@ -18,7 +18,7 @@ public class MathUtilTest {
 		return new Integer[][] {
 									{1,1},
 									{2,2},
-									{5,120},
+									{5,520},
 									{6,720},
 								};
 	}
